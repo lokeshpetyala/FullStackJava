@@ -3,7 +3,6 @@ package exercise;
 public class CountVowels {
     public static void main(String []args){
         String str = "FullStack Programming";
-        String str2[] = {"a","e","i","o","u"};
         int count = 0,count2=0;
         for(int i=0;i<str.length();i++)
         {
